@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98f4688c-07d0-480e-8c3a-323a608353b9": {
+      "ProjectGuid": "98f4688c-07d0-480e-8c3a-323a608353b9",
+      "DisplayName": "KNN",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

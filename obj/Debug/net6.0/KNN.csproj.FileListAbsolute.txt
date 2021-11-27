@@ -1,0 +1,15 @@
+C:\Repos\KNNGit\bin\Debug\net6.0\KNN.exe
+C:\Repos\KNNGit\bin\Debug\net6.0\KNN.deps.json
+C:\Repos\KNNGit\bin\Debug\net6.0\KNN.runtimeconfig.json
+C:\Repos\KNNGit\bin\Debug\net6.0\KNN.dll
+C:\Repos\KNNGit\bin\Debug\net6.0\ref\KNN.dll
+C:\Repos\KNNGit\bin\Debug\net6.0\KNN.pdb
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.csproj.AssemblyReference.cache
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.AssemblyInfoInputs.cache
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.AssemblyInfo.cs
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.csproj.CoreCompileInputs.cache
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.dll
+C:\Repos\KNNGit\obj\Debug\net6.0\ref\KNN.dll
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.pdb
+C:\Repos\KNNGit\obj\Debug\net6.0\KNN.genruntimeconfig.cache
